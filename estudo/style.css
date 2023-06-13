@@ -14,6 +14,8 @@ header {
   display: flex;
   padding: 20px;
   background-color: #52489c;
+  position: fixed;
+  width: 100%;
 }
 
 .logo {
